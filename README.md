@@ -38,6 +38,18 @@ MySignals sensors enable the real-time collection of various health metrics. The
 
 The integration with ThingsBoard enables efficient real-time monitoring, data visualization, and alerts for these health parameters. For a complete guide on how to work with MySignals, refer to the PDF guide included in this repository.
 
+### What is ThingsBoard?
+[ThingsBoard](https://thingsboard.io/docs/) is an open-source IoT platform that provides device management, data collection, processing, and visualization for IoT solutions. It supports scalable and flexible architectures for IoT and is used for data monitoring and real-time analysis in various industries.
+
+**Key Features of ThingsBoard**:
+- **Device Management**: Efficiently manage thousands of devices, their connectivity, and configuration.
+- **Data Collection & Processing**: Real-time telemetry data ingestion and processing using complex event processing (CEP).
+- **Data Visualization**: Build customizable dashboards to visualize real-time data from connected devices.
+- **Rules Engine**: Automate actions and alerting based on incoming data using the powerful rule engine.
+- **Scalability**: Designed to support high-throughput data with horizontal scalability.
+
+ThingsBoard provides a reliable platform for building IoT applications, especially when handling multiple sensors and collecting large amounts of telemetry data, like in this project with MySignals. More details about ThingsBoard can be found in their official [documentation](https://thingsboard.io/docs/).
+
 ### For More Information
 For detailed information on setting up and using MySignals, check out the [MySignals Technical Guide](docs/mysignals_technical_guide_sw.pdf) located in the `/docs` folder.
 
