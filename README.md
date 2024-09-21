@@ -17,7 +17,7 @@ _Towards Predictive Analytics Algorithms for Attack Prediction in IoT Platforms_
 ## Introduction
 
 ### What is MySignals?
-[MySignals](https://www.cooking-hacks.com/documentation/tutorial-mysignals-hw-v2.html) is a comprehensive eHealth platform developed by Libelium. It allows for the monitoring of over 15 different biometric parameters using a variety of medical sensors, including:
+[MySignals]([https://www.cooking-hacks.com/documentation/tutorial-mysignals-hw-v2.html](https://web.archive.org/web/20170709033035/https://www.cooking-hacks.com/mysignals-hw-v1-ehealth-medical-biometric-iot-platform-arduino-tutorial/)) is a comprehensive eHealth platform developed by Libelium. It allows for the monitoring of over 15 different biometric parameters using a variety of medical sensors, including:
 - ECG (Electrocardiography)
 - SPO2 (Oxygen Saturation in Blood)
 - Airflow
